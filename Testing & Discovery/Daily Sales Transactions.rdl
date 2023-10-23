@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:am="http://schemas.microsoft.com/sqlserver/reporting/authoringmetadata">
+  <am:AuthoringMetadata>
+    <am:CreatedBy>
+      <am:Name>SSDTRS</am:Name>
+      <am:Version>17.7.34202.233</am:Version>
+    </am:CreatedBy>
+    <am:UpdatedBy>
+      <am:Name>SSDTRS</am:Name>
+      <am:Version>17.7.34202.233</am:Version>
+    </am:UpdatedBy>
+    <am:LastModifiedTimestamp>2023-10-23T22:27:20.2220472Z</am:LastModifiedTimestamp>
+  </am:AuthoringMetadata>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
     <DataSource Name="bdtdlssrs_DataWarehouse">
@@ -7,7 +18,7 @@
       <rd:SecurityType>None</rd:SecurityType>
       <rd:DataSourceID>5e72d0eb-5c6d-4a5a-a5ff-cf27671af436</rd:DataSourceID>
     </DataSource>
-    <DataSource Name="DataSource1">
+    <DataSource Name="bdtdlssrs_AX_BJB_2009_LIVE">
       <DataSourceReference>bdtdlssrs_AX_BJB_2009_LIVE</DataSourceReference>
       <rd:SecurityType>None</rd:SecurityType>
       <rd:DataSourceID>619a3e45-e73a-4d6b-8046-5e0dbf372aac</rd:DataSourceID>
@@ -16,7 +27,7 @@
   <DataSets>
     <DataSet Name="DailyCustTransactions">
       <Query>
-        <DataSourceName>DataSource1</DataSourceName>
+        <DataSourceName>bdtdlssrs_AX_BJB_2009_LIVE</DataSourceName>
         <QueryParameters>
           <QueryParameter Name="@FromDate">
             <Value>=Parameters!FromDate.Value</Value>
