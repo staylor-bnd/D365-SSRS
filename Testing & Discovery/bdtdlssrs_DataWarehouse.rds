@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="bdtdlssrs_DataWarehouse">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=bdtdlssrs;Initial Catalog=DataWarehouse</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ec8dbeb9-6c0b-4565-8b95-f2377717182f</DataSourceID>
+</RptDataSource>

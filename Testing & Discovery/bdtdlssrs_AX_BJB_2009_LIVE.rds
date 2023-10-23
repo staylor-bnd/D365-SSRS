@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="bdtdlssrs_AX_BJB_2009_LIVE">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=bdtdlssrs;Initial Catalog=AX_BJB_2009_LIVE</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>24b3cdb8-a665-4670-9881-197f1be1e9e0</DataSourceID>
+</RptDataSource>

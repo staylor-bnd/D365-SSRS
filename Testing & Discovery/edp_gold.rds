@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="edp_gold">
+  <ConnectionProperties>
+    <Extension>SQLAZURE</Extension>
+    <ConnectString>Data Source=badbl.database.windows.net;Initial Catalog=badbl_gold_db;Encrypt=True;TrustServerCertificate=False</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>7d0747e1-6343-4b1d-8d0d-63388eb54980</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="bjbaussql01_BJB_DataView">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=bjbaussql01;Initial Catalog=BJB_DataView</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d2102378-49e0-4c7d-8fac-993a68e2b4b6</DataSourceID>
+</RptDataSource>
