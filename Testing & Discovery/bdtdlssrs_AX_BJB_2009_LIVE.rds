@@ -3,6 +3,7 @@
   <ConnectionProperties>
     <Extension>SQL</Extension>
     <ConnectString>Data Source=bdtdlssrs;Initial Catalog=AX_BJB_2009_LIVE</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>24b3cdb8-a665-4670-9881-197f1be1e9e0</DataSourceID>
 </RptDataSource>

@@ -3,6 +3,7 @@
   <ConnectionProperties>
     <Extension>SQL</Extension>
     <ConnectString>Data Source=bdtdlssrs;Initial Catalog=DataWarehouse</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>ec8dbeb9-6c0b-4565-8b95-f2377717182f</DataSourceID>
 </RptDataSource>
