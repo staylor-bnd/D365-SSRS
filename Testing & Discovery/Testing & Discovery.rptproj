@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Report Include="Copy of Daily Sales Transactions.rdl" />
+    <Report Include="D365 Daily Sales Transactions.rdl" />
     <Report Include="Daily Sales Transactions.rdl" />
     <Report Include="Report1.rdl" />
   </ItemGroup>
