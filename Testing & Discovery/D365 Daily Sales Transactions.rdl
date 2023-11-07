@@ -432,6 +432,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -469,6 +470,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -506,6 +508,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -539,16 +542,16 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>None</Style>
                             </Border>
                             <BottomBorder>
-                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
                             <PaddingBottom>2pt</PaddingBottom>
                           </Style>
                         </Textbox>
+                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                     <TablixCell>
@@ -583,6 +586,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -620,6 +624,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -657,6 +662,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -694,6 +700,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -731,6 +738,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -768,6 +776,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -805,6 +814,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -842,6 +852,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -879,6 +890,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -916,6 +928,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -953,6 +966,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -990,6 +1004,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1030,6 +1045,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1067,6 +1083,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1107,6 +1124,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1147,6 +1165,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1187,6 +1206,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1227,6 +1247,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1267,6 +1288,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1306,6 +1328,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>1pt</Width>
                             </BottomBorder>
+                            <BackgroundColor>#01d0ca</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1364,6 +1387,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1417,6 +1441,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1470,6 +1495,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1523,6 +1549,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1579,6 +1606,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1632,6 +1660,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1685,6 +1714,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1738,6 +1768,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1791,6 +1822,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1844,6 +1876,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1897,6 +1930,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -1950,6 +1984,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2003,6 +2038,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2056,6 +2092,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2109,6 +2146,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2162,6 +2200,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2218,6 +2257,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2271,6 +2311,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2327,6 +2368,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2383,6 +2425,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2440,6 +2483,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2460,7 +2504,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>=Fields!Margin.Value</Value>
                                   <Style>
                                     <FontSize>8pt</FontSize>
-                                    <Format>0.00%</Format>
+                                    <Format>p1</Format>
                                     <Color>=iif(Fields!Margin.Value&lt;0.02,"Red","Black")</Color>
                                   </Style>
                                 </TextRun>
@@ -2497,6 +2541,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2553,6 +2598,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2609,6 +2655,7 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Style>Solid</Style>
                               <Width>0.5pt</Width>
                             </RightBorder>
+                            <BackgroundColor>= IIf(RowNumber(Nothing) Mod 2 = 0, "#c7dee3", "Transparent")</BackgroundColor>
                             <PaddingLeft>2pt</PaddingLeft>
                             <PaddingRight>2pt</PaddingRight>
                             <PaddingTop>2pt</PaddingTop>
@@ -2648,9 +2695,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2701,9 +2748,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2754,9 +2801,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2807,9 +2854,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2862,9 +2909,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2915,9 +2962,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -2968,9 +3015,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3021,9 +3068,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3074,9 +3121,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3127,9 +3174,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3180,9 +3227,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3233,9 +3280,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3286,9 +3333,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3339,9 +3386,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3392,9 +3439,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3445,9 +3492,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3500,9 +3547,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3539,7 +3586,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>=Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions")</Value>
                                   <Style>
                                     <FontSize>8pt</FontSize>
-                                    <Format>'$'#,0;('$'#,0)</Format>
+                                    <Format>n2</Format>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -3556,9 +3603,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3597,7 +3644,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>=Sum(Fields!OLAPCOSTVALUE.Value, "DailyCustTransactions")</Value>
                                   <Style>
                                     <FontSize>8pt</FontSize>
-                                    <Format>'$'#,0;('$'#,0)</Format>
+                                    <Format>n2</Format>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -3614,9 +3661,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3653,7 +3700,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>=Sum(Fields!GP.Value, "DailyCustTransactions")</Value>
                                   <Style>
                                     <FontSize>8pt</FontSize>
-                                    <Format>'$'#,0;('$'#,0)</Format>
+                                    <Format>n2</Format>
                                     <Color>=iif(Fields!Margin.Value&lt;0.02,"Red","Black")</Color>
                                   </Style>
                                 </TextRun>
@@ -3671,9 +3718,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3710,7 +3757,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>=iif(Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions") = 0, "",Sum(Fields!GP.Value, "DailyCustTransactions") / Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions"))</Value>
                                   <Style>
                                     <FontSize>8pt</FontSize>
-                                    <Format>0%</Format>
+                                    <Format>p1</Format>
                                     <Color>=iif(Fields!Margin.Value&lt;0.02,"Red","Black")</Color>
                                   </Style>
                                 </TextRun>
@@ -3728,9 +3775,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3783,9 +3830,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -3838,9 +3885,9 @@ ORDER BY TYPECLASSASL</CommandText>
                               <Width>0.5pt</Width>
                             </Border>
                             <TopBorder>
-                              <Color>LightGrey</Color>
+                              <Color>Black</Color>
                               <Style>Solid</Style>
-                              <Width>0.5pt</Width>
+                              <Width>1pt</Width>
                             </TopBorder>
                             <BottomBorder>
                               <Color>LightGrey</Color>
@@ -4043,7 +4090,7 @@ ORDER BY TYPECLASSASL</CommandText>
       <DataType>DateTime</DataType>
       <DefaultValue>
         <Values>
-          <Value>=DateAdd("d",-1,Today())</Value>
+          <Value>=DateValue("September 1, 2023")</Value>
         </Values>
       </DefaultValue>
       <Prompt>FromDate</Prompt>
