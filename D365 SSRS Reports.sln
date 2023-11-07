@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Testing & Discovery", "Testing & Discovery\Testing & Discovery.rptproj", "{94C49528-6FC8-4F4D-8D05-E3692520C337}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Testing and Discovery", "Testing & Discovery\Testing and Discovery.rptproj", "{94C49528-6FC8-4F4D-8D05-E3692520C337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

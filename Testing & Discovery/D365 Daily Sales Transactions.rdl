@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.7.34202.233</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2023-11-06T01:55:50.8655067Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2023-11-07T18:45:52.5900441Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
@@ -330,31 +330,31 @@ ORDER BY TYPECLASSASL</CommandText>
                   <Width>13.0937mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>20.23745mm</Width>
+                  <Width>16.35689mm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>9.9187mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>18.64995mm</Width>
+                  <Width>18.47356mm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>20.50212mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>18.91462mm</Width>
+                  <Width>23.14795mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>21.29587mm</Width>
+                  <Width>25.26484mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>24.99995mm</Width>
+                  <Width>23.23606mm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>77.12304mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>13.35837mm</Width>
+                  <Width>10.71254mm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>25mm</Width>
@@ -414,6 +414,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Item Div</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -452,6 +453,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Item Group</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -490,6 +492,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Site</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -528,6 +531,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Warehouse</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -551,7 +555,6 @@ ORDER BY TYPECLASSASL</CommandText>
                             <PaddingBottom>2pt</PaddingBottom>
                           </Style>
                         </Textbox>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                     <TablixCell>
@@ -565,6 +568,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Invoice Date</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>d</Format>
@@ -606,6 +610,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Sales Order</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -644,6 +649,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Invoice</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -682,6 +688,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Customer Code</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -720,6 +727,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Customer Name</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -758,6 +766,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Cust Div</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -796,6 +805,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Sales Pool</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -834,6 +844,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Account Mgr</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -872,6 +883,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Item Type</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -910,6 +922,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Item Code</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -948,6 +961,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Config</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -986,6 +1000,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Item Name</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -1024,6 +1039,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Qty</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
@@ -1065,6 +1081,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>SO Unit</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -1103,6 +1120,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Sales $</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
@@ -1144,6 +1162,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Cost $</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
@@ -1185,6 +1204,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>GP $</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
@@ -1226,6 +1246,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Margin %</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>0.00%</Format>
@@ -1267,6 +1288,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Weight KGs</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f0</Format>
@@ -1308,6 +1330,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>Tonne Rate</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -3585,6 +3608,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>=Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions")</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <Format>n2</Format>
                                   </Style>
@@ -3643,6 +3667,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>=Sum(Fields!OLAPCOSTVALUE.Value, "DailyCustTransactions")</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <Format>n2</Format>
                                   </Style>
@@ -3699,6 +3724,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>=Sum(Fields!GP.Value, "DailyCustTransactions")</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <Format>n2</Format>
                                     <Color>=iif(Fields!Margin.Value&lt;0.02,"Red","Black")</Color>
@@ -3756,6 +3782,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                 <TextRun>
                                   <Value>=iif(Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions") = 0, "",Sum(Fields!GP.Value, "DailyCustTransactions") / Sum(Fields!LINEAMOUNTMST.Value, "DailyCustTransactions"))</Value>
                                   <Style>
+                                    <FontFamily>Futwora Pro</FontFamily>
                                     <FontSize>8pt</FontSize>
                                     <Format>p1</Format>
                                     <Color>=iif(Fields!Margin.Value&lt;0.02,"Red","Black")</Color>
@@ -3966,7 +3993,7 @@ ORDER BY TYPECLASSASL</CommandText>
             <Top>9.12686mm</Top>
             <Left>0mm</Left>
             <Height>17.99998mm</Height>
-            <Width>588.62246mm</Width>
+            <Width>588.3581mm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -3997,6 +4024,7 @@ ORDER BY TYPECLASSASL</CommandText>
                   <TextRun>
                     <Value>Sales Transactions</Value>
                     <Style>
+                      <FontFamily>Futwora Pro Bold</FontFamily>
                       <FontSize>14pt</FontSize>
                     </Style>
                   </TextRun>
@@ -4044,6 +4072,7 @@ ORDER BY TYPECLASSASL</CommandText>
                     <TextRun>
                       <Value>="Executed On:" + Globals!ExecutionTime</Value>
                       <Style>
+                        <FontFamily>Futwora Pro</FontFamily>
                         <FontSize>8pt</FontSize>
                       </Style>
                     </TextRun>
