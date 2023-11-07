@@ -354,7 +354,7 @@ ORDER BY TYPECLASSASL</CommandText>
                   <Width>77.12304mm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>10.71254mm</Width>
+                  <Width>10.9769mm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>25mm</Width>
@@ -415,7 +415,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Item Div</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -454,7 +454,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Item Group</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -493,7 +493,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Site</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -532,7 +532,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Warehouse</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -569,7 +569,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Invoice Date</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>d</Format>
                                   </Style>
@@ -611,7 +611,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Sales Order</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -650,7 +650,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Invoice</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -689,7 +689,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Customer Code</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -728,7 +728,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Customer Name</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -767,7 +767,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Cust Div</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -806,7 +806,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Sales Pool</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -845,7 +845,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Account Mgr</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -884,7 +884,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Item Type</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -923,7 +923,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Item Code</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -962,7 +962,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Config</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -1001,7 +1001,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Item Name</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -1040,7 +1040,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Qty</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
                                   </Style>
@@ -1082,7 +1082,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>SO Unit</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -1121,7 +1121,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Sales $</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
                                   </Style>
@@ -1163,7 +1163,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Cost $</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
                                   </Style>
@@ -1205,7 +1205,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>GP $</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f2</Format>
                                   </Style>
@@ -1247,7 +1247,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Margin %</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>0.00%</Format>
                                   </Style>
@@ -1289,7 +1289,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Weight KGs</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                     <Format>f0</Format>
                                   </Style>
@@ -1331,7 +1331,7 @@ ORDER BY TYPECLASSASL</CommandText>
                                   <Value>Tonne Rate</Value>
                                   <Style>
                                     <FontFamily>Futwora Pro</FontFamily>
-                                    <FontSize>8pt</FontSize>
+                                    <FontSize>6pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -3993,7 +3993,7 @@ ORDER BY TYPECLASSASL</CommandText>
             <Top>9.12686mm</Top>
             <Left>0mm</Left>
             <Height>17.99998mm</Height>
-            <Width>588.3581mm</Width>
+            <Width>588.62246mm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
