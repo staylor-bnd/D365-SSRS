@@ -4024,8 +4024,9 @@ ORDER BY TYPECLASSASL</CommandText>
                   <TextRun>
                     <Value>Sales Transactions</Value>
                     <Style>
-                      <FontFamily>Futwora Pro Bold</FontFamily>
+                      <FontFamily>Futwora Pro</FontFamily>
                       <FontSize>14pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
                 </TextRuns>
